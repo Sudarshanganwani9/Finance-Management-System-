@@ -45,7 +45,7 @@ src/
 
 1. Clone the repository
 
-git clone https://github.com/Sudarshanganwani9/Finance-Management-System.git
+git clone https://github.com/Sudarshanganwani9/Finance-Management-System-
 cd Finance-Management-System
 
 2. Install dependencies
